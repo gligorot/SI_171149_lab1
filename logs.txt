@@ -1,0 +1,6 @@
+commit ca4ae86a8bfe033f6ace75e71551c58be275e7d9 (HEAD -> logs, origin/master, master)
+Author: gligorot <dracevo.kromid@gmail.com>
+Date:   Thu Apr 4 10:34:11 2019 +0200
+
+    Initial commit
+
